@@ -173,6 +173,9 @@ body {
     justify-content: center;
     margin-top: 0.5rem;
 }
+.hero-buttons a{
+    text-decoration:none;
+}
 
 .btn {
     font-size: 1rem;
